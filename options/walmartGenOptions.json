@@ -1,0 +1,13 @@
+{
+    "catchall": "@gmail.ca",
+    "password": "Second123!",
+    "address": "86 Main Court",
+    "city": "Toronto",
+    "postalcode": "M3B7Y6",
+    "CCnumber": "4536285895869585",
+    "CVV": "852",
+    "expiryMonth": "12",
+    "expiryYear": "2023",
+    "province": "ON",
+    "accounts": "25"
+}
